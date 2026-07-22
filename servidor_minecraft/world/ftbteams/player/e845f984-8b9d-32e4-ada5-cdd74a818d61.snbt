@@ -1,0 +1,17 @@
+{
+	id: "e845f984-8b9d-32e4-ada5-cdd74a818d61"
+	type: "player"
+	player_name: "TGSomb"
+	ranks: {
+		e845f984-8b9d-32e4-ada5-cdd74a818d61: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TGSomb"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DC59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

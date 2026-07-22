@@ -1,0 +1,17 @@
+{
+	id: "a7486279-1c00-380e-a00c-0b58214278c6"
+	type: "player"
+	player_name: "Jwanxz"
+	ranks: {
+		a7486279-1c00-380e-a00c-0b58214278c6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Jwanxz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFA4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

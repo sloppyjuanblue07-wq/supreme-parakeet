@@ -1,0 +1,420 @@
+{
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2026-07-17 01:38:14 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2026-07-17 01:38:14 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2026-07-17 01:38:14 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2026-07-17 01:38:14 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:repair_natures_compass": {
+    "criteria": {
+      "has_recipe": "2026-07-17 01:38:14 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2026-07-17 01:38:14 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2026-07-17 01:38:14 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2026-07-17 01:38:15 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-07-17 01:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2026-07-17 03:08:58 +0000",
+      "minecraft:deep_ocean": "2026-07-17 01:38:15 +0000",
+      "minecraft:frozen_river": "2026-07-17 03:06:43 +0000",
+      "minecraft:bamboo_jungle": "2026-07-17 02:31:32 +0000",
+      "minecraft:beach": "2026-07-17 03:10:02 +0000",
+      "minecraft:river": "2026-07-17 03:06:52 +0000",
+      "minecraft:snowy_plains": "2026-07-17 01:42:24 +0000",
+      "minecraft:stony_shore": "2026-07-17 04:48:23 +0000",
+      "minecraft:dripstone_caves": "2026-07-17 01:54:12 +0000",
+      "minecraft:snowy_taiga": "2026-07-17 02:00:16 +0000",
+      "minecraft:cold_ocean": "2026-07-17 03:10:07 +0000",
+      "minecraft:forest": "2026-07-17 03:08:33 +0000",
+      "minecraft:lush_caves": "2026-07-17 02:32:46 +0000",
+      "minecraft:deep_cold_ocean": "2026-07-17 03:36:30 +0000",
+      "minecraft:ocean": "2026-07-17 04:48:45 +0000",
+      "minecraft:old_growth_birch_forest": "2026-07-17 04:48:19 +0000",
+      "minecraft:plains": "2026-07-17 03:09:59 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2026-07-17 01:38:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2026-07-17 01:38:15 +0000"
+    },
+    "done": true
+  },
+  "tcrcore:tcrcore": {
+    "criteria": {
+      "tcrcore": "2026-07-17 01:38:15 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2026-07-17 01:38:15 +0000"
+    },
+    "done": true
+  },
+  "bookofdragons:class_collector": {
+    "criteria": {
+      "tamed_nightfury": "2026-07-17 01:42:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2026-07-17 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "bookofdragons:dragon_tamer": {
+    "criteria": {
+      "tamed_dragon": "2026-07-17 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "bookofdragons:dragon_master": {
+    "criteria": {
+      "tamed_nightfury": "2026-07-17 01:42:14 +0000"
+    },
+    "done": false
+  },
+  "bookofdragons:root": {
+    "criteria": {
+      "has_book": "2026-07-17 01:42:14 +0000"
+    },
+    "done": true
+  },
+  "tudigong:sincerity": {
+    "criteria": {
+      "sincerity": "2026-07-17 01:43:26 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2026-07-17 01:44:03 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2026-07-17 02:21:37 +0000",
+      "opened_chest": "2026-07-17 01:44:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2026-07-17 01:44:05 +0000"
+    },
+    "done": true
+  },
+  "uniqueaccessories:adventure/get_any_accessory": {
+    "criteria": {
+      "has_accessory": "2026-07-17 01:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-07-17 01:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2026-07-17 03:16:17 +0000",
+      "minecraft:skeleton": "2026-07-17 01:55:15 +0000",
+      "minecraft:vindicator": "2026-07-17 03:18:50 +0000",
+      "minecraft:spider": "2026-07-17 01:48:10 +0000",
+      "minecraft:husk": "2026-07-17 02:23:34 +0000",
+      "minecraft:stray": "2026-07-17 01:52:35 +0000",
+      "minecraft:zombie": "2026-07-17 01:49:39 +0000",
+      "minecraft:drowned": "2026-07-17 03:41:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2026-07-17 01:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-07-17 01:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-07-17 01:51:39 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-07-17 01:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2026-07-17 04:01:08 +0000",
+      "pumpkin_pie": "2026-07-17 03:20:37 +0000",
+      "bread": "2026-07-17 01:52:22 +0000",
+      "golden_apple": "2026-07-17 04:44:36 +0000",
+      "cookie": "2026-07-17 04:13:48 +0000",
+      "carrot": "2026-07-17 04:06:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-07-17 01:52:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:coconino_meadow": "2026-07-17 04:36:35 +0000",
+      "biomeswevegone:maple_taiga": "2026-07-17 04:40:23 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2026-07-17 01:59:44 +0000",
+      "biomeswevegone:crimson_tundra": "2026-07-17 04:35:58 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:frosted_coniferous_forest": "2026-07-17 01:59:44 +0000"
+    },
+    "done": true
+  },
+  "ba_bt:battletowers/land_tower_found": {
+    "criteria": {
+      "Find Land Tower": "2026-07-17 02:00:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2026-07-17 02:07:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2026-07-17 02:27:17 +0000",
+      "golden_apple": "2026-07-17 02:07:21 +0000"
+    },
+    "done": false
+  },
+  "ba_bt:battletowers/find_land_key": {
+    "criteria": {
+      "Acquire Key": "2026-07-17 02:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-07-17 02:10:12 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2026-07-17 02:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-07-17 02:14:20 +0000"
+    },
+    "done": true
+  },
+  "ba_bt:battletowers/kill_land_golem": {
+    "criteria": {
+      "Kill Golem": "2026-07-17 02:17:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2026-07-17 02:20:25 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2026-07-17 02:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-07-17 02:27:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2026-07-17 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "tcrcore:unlock_weapon_armor_book": {
+    "criteria": {
+      "unlock_weapon_armor_book": "2026-07-17 02:41:42 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2026-07-17 02:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2026-07-17 03:01:31 +0000"
+    },
+    "done": true
+  },
+  "ba_bt:battletowers/battle_tower": {
+    "criteria": {
+      "crafting_table": "2026-07-17 03:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-07-17 03:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-07-17 03:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2026-07-17 03:16:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2026-07-17 03:17:08 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2026-07-17 03:22:49 +0000"
+    },
+    "done": true
+  },
+  "uniqueaccessories:adventure/get_accessory_box": {
+    "criteria": {
+      "has_accessory_box": "2026-07-17 03:22:54 +0000"
+    },
+    "done": true
+  },
+  "uniqueaccessories:adventure/ua_collect_05": {
+    "criteria": {
+      "count_reached": "2026-07-17 03:23:42 +0000"
+    },
+    "done": true
+  },
+  "ba_bt:battletowers/ocean_tower_found": {
+    "criteria": {
+      "Find Ocean Tower": "2026-07-17 03:37:09 +0000"
+    },
+    "done": true
+  },
+  "ba_bt:battletowers/find_ocean_key": {
+    "criteria": {
+      "Acquire Key": "2026-07-17 03:43:11 +0000"
+    },
+    "done": true
+  },
+  "ba_bt:battletowers/kill_ocean_golem": {
+    "criteria": {
+      "Kill Golem": "2026-07-17 04:02:44 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2026-07-17 04:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-07-17 04:42:14 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2026-07-17 04:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2026-07-21 00:45:14 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
